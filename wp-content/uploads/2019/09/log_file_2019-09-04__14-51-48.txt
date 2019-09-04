@@ -1,0 +1,139 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/web-site
+Data file = C:\xampp\htdocs\web-site\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = C:\xampp\htdocs\web-site\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = C:\xampp\htdocs\web-site\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				african-african-american-afro-america-american-asian-1448533-pxhere		" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				app-store		" (Đa phương tiện)
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Lưu trữ - No Title - Widget already exists
+Chuyên mục - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Văn bản - No Title - Imported
+
+Advertisement Banner One : 
+
+Ảnh - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Products - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Products by Rating - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+HTML Tùy chỉnh - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Products - Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Products - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Products - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Products - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Products - Products - Imported
+
+Footer Column 1 : 
+
+Văn bản - No Title - Imported
+
+Footer Column 2 : 
+
+HTML Tùy chỉnh - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML Tùy chỉnh - Shop Location - Imported
+
+Footer Column 4 : 
+
+Ảnh - Download App - Imported
+Ảnh - No Title - Imported
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Products - Products - Imported to Inactive
+Văn bản - No Title - Imported to Inactive
+Products - Products - Imported to Inactive
+Văn bản - No Title - Imported to Inactive
+maxmegamenu - No Title - Site does not support widget
+Thanh điều hướng - No Title - Imported to Inactive
+Ảnh - Featured Product - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+
